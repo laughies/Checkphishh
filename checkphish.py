@@ -166,10 +166,12 @@ def clear():
 def logo():
     print(bcolors.WARNING)
     logo_ascii = """
-                                  __         __
-                                 /__)_  """+bcolors.BADFAIL+" ●"+bcolors.WARNING+"""_/(  _ _
-                                / ( (//)/(/__)( (//)
-                                     /
+                                  
+                                
+    
+                                             c̵̛̥͊ḥ̸̨̧̗̮̖̽̂̓̀̍̋͋́̅̃͘͜͝ë̸͓̮͉͈͇͍̖͎̩̞͈́́́̋̇̾͋̈́̾͆͑͘͘͜͠͝c̵̛̥͊k̵̘̺̦͉͖̪̪͖͉͊̆̔́̈́̍̃̈́͒̂̑̀̚͜͝p̴̩͙̺̩͓̣͈͖̎ͅḥ̸̨̧̗̮̖̽̂̓̀̍̋͋́̅̃͘͜͝i̶̡̹͈͎̳̞͙͖̾̂̀͑̀͆̑̓̽̉͐͘͘ͅs̴̹̀̎̇͗̍͗̾̋̏̈͐͒̕͠͠ͅḥ̸̨̧̗̮̖̽̂̓̀̍̋͋́̅̃͘͜͝"""+bcolors.BADFAIL+" ●"+bcolors.WARNING+"""_/(  _ _
+                            
+
                      """+bcolors.ENDC+"""(The Multi-Tool Web Vulnerability Scanner)
 
                      Check out our new software, """+bcolors.BG_LOW_TXT+"""NetBot"""+bcolors.ENDC+""" for simulating DDoS attacks - https://github.com/skavngr/netbot
