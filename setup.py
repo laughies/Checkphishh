@@ -15,7 +15,7 @@ setup(
     description         =   "The Multi-Tool Web Vulnerability Scanner.",
     long_description    =   README,
     long_description_content_type = "text/markdown",
-    url                 =   "https://github.com/skavngr/rapidscan",
+    url                 =   "https://github.com/laughies/checkphishh",
     author              =   "sh4nx0r",
     py_modules          =   ['checkphish',],
     install_requires    =   [],
